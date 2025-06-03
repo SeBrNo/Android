@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cw-deviceapi20191022">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/cw-deviceapi20191022.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
